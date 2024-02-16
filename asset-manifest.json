@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/IHDC/static/css/main.275bca62.css",
+    "main.js": "/IHDC/static/js/main.d8df6ab0.js",
+    "static/media/celeb.png": "/IHDC/static/media/celeb.64b5877a83cb5b0e4f30.png",
+    "static/media/membership.jpg": "/IHDC/static/media/membership.6184069725ca4753300b.jpg",
+    "static/media/img3.jpg": "/IHDC/static/media/img3.12651c0175a977603de0.jpg",
+    "static/media/real-estate-house.png": "/IHDC/static/media/real-estate-house.4971117080b96441a6e2.png",
+    "static/media/img1.jpg": "/IHDC/static/media/img1.f68d08cc632f55f06b25.jpg",
+    "static/media/img2.jpg": "/IHDC/static/media/img2.78da90ce372956ddf645.jpg",
+    "index.html": "/IHDC/index.html",
+    "main.275bca62.css.map": "/IHDC/static/css/main.275bca62.css.map",
+    "main.d8df6ab0.js.map": "/IHDC/static/js/main.d8df6ab0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275bca62.css",
+    "static/js/main.d8df6ab0.js"
+  ]
+}
