@@ -1,0 +1,11 @@
+.head{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    color: rgb(27, 180, 231);
+}
+.unlock{
+    padding-top: 50px;
+}
+.button{
+    width: 100%;
+}

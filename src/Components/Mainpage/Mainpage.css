@@ -1,0 +1,22 @@
+.heading{
+    padding-top: 30px;
+}
+.head{
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    
+}
+.heads{
+    font-family: "Roboto", sans-serif;
+    color: lightseagreen; 
+}
+
+.buton{
+width: 200px;
+height: 35px;
+color: white;
+}
+
+.button{
+  margin-top: 10px;
+}
